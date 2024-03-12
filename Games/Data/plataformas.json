@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "PC",
+        "cor": "#34343b"
+    },
+    {
+        "nome": "PlayStation",
+        "cor": "#003791"
+    },
+    {
+        "nome": "Xbox",
+        "cor": "#107c10"
+    },
+    {
+        "nome": "Nintendo Switch",
+        "cor": "#e60012"
+    }
+]
