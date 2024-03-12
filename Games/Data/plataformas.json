@@ -1,18 +1,18 @@
 [
     {
-        "nome": "PC",
-        "cor": "#34343b"
+        "Nome": "PC",
+        "Cor": "#34343b"
     },
     {
-        "nome": "PlayStation",
-        "cor": "#003791"
+        "Nome": "PlayStation",
+        "Cor": "#003791"
     },
     {
-        "nome": "Xbox",
-        "cor": "#107c10"
+        "Nome": "Xbox",
+        "Cor": "#107c10"
     },
     {
-        "nome": "Nintendo Switch",
-        "cor": "#e60012"
+        "Nome": "Nintendo-Switch",
+        "Cor": "#e60012"
     }
 ]
