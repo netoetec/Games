@@ -2,6 +2,8 @@
     {
         "Numero": 1,
         "Nome": "Elden Ring",
+        "Desenvolvedor": "FromSoftware",
+        "DataLancamento" : "25 de fevereiro de 2022" ,
         "Descricao": "Elden Ring é um jogo eletrônico de RPG de ação em terceira pessoa, desenvolvido pela FromSoftware e publicado pela Bandai Namco Entertainment. O jogo é um projeto colaborativo entre o diretor Hidetaka Miyazaki e o romancista de fantasia George R. R. Martin.",
         "Plataforma": ["PlayStation", "Xbox", "PC"],
         "Imagem": "\\img\\jogos\\1.jpg"
@@ -9,13 +11,17 @@
     {
         "Numero": 2,
         "Nome": "Mortal Kombat 1",
+        "Desenvolvedor": "NetherRealm Studios, Saber Interactive, QLOC, Shiver Entertainment",
+        "DataLancamento" : "14 de setembro de 2023" ,
         "Descricao": "Mortal Kombat 1 é um jogo eletrônico de luta desenvolvido pela NetherRealm Studios e publicado pela Warner Bros.. Foi lançado em 19 de setembro de 2023 para PlayStation 5, Xbox Series X/S, Nintendo-Switch e Windows. Mortal Kombat 1 é um reboot da série Mortal Kombat.",
-        "Plataforma":  ["PlayStation", "Xbox", "PC"],
+        "Plataforma":  ["PlayStation", "Xbox", "PC", "Nintendo-Switch"],
         "Imagem": "\\img\\jogos\\2.jpg"
     },
     {
         "Numero": 3,
         "Nome": "Hogwarts Legacy",
+        "Desenvolvedor": "Warner Bros. Games, Avalanche Software",
+        "DataLancamento" : "10 de fevereiro de 2023" ,
         "Descricao": "Hogwarts Legacy é um jogo eletrônico de RPG de ação desenvolvido pela Avalanche Software e publicado pela Warner Bros. Interactive Entertainment sob o selo Portkey Games. O jogo é ambientado no final do século XIX do universo de Harry Potter, um século antes dos eventos narrados nos livros de J.K. Rowling.",
         "Plataforma": ["PlayStation", "Xbox", "PC", "Nintendo-Switch"],
         "Imagem": "\\img\\jogos\\3.jpg"
@@ -23,6 +29,8 @@
     {
         "Numero": 4,
         "Nome": "Baldur's Gate III",
+        "Desenvolvedor": "Larian Studios",
+        "DataLancamento" : "3 de agosto de 2023" ,
         "Descricao": "Baldur's Gate III é um jogo eletrônico de RPG desenvolvido e publicado pela Larian Studios. É o terceiro jogo principal da série Baldur's Gate, que é baseada no sistema de RPG de mesa Dungeons & Dragons, dentro do cenário de Forgotten Realms.",
         "Plataforma": ["PlayStation", "Xbox", "PC"],
         "Imagem": "\\img\\jogos\\4.jpg"
@@ -30,6 +38,8 @@
     {
         "Numero": 5,
         "Nome": "God of War Ragnarök",
+        "Desenvolvedor": "Santa Monica Studio",
+        "DataLancamento" : "9 de novembro de 2022" ,
         "Descricao": "God of War Ragnarök é um jogo eletrônico de ação-aventura desenvolvido pela Santa Monica Studio e publicado pela Sony Interactive Entertainment. Foi lançado em 9 de novembro de 2022 para PlayStation 4 e PlayStation 5. É o nono título da série God of War, o nono em ordem cronológica, e a sequência de God of War.",
         "Plataforma": ["PlayStation"],
         "Imagem": "\\img\\jogos\\5.jpg"
@@ -37,6 +47,8 @@
     {
         "Numero": 6,
         "Nome": "Horizon Forbidden West",
+        "Desenvolvedor": "Guerrilla Games",
+        "DataLancamento" : "18 de fevereiro de 2022" ,
         "Descricao": "Horizon Forbidden West é um jogo eletrônico de RPG de ação desenvolvido pela Guerrilla Games e publicado pela Sony Interactive Entertainment. Foi lançado em 18 de fevereiro de 2022 para PlayStation 4 e PlayStation 5.",
         "Plataforma": ["PlayStation", "PC"],
         "Imagem": "\\img\\jogos\\6.jpg"
@@ -44,6 +56,8 @@
     {
         "Numero": 7,
         "Nome": "Spider-Man 2",
+        "Desenvolvedor": "Insomniac Games",
+        "DataLancamento" : "20 de outubro de 2023" ,
         "Descricao": "Marvel's Spider-Man 2 é um jogo eletrônico de ação-aventura desenvolvido pela Insomniac Games e publicado pela Sony Interactive Entertainment para o PlayStation 5.",
         "Plataforma": ["PlayStation"],
         "Imagem": "\\img\\jogos\\7.jpg"
@@ -51,6 +65,8 @@
     {
         "Numero": 8,
         "Nome": "The Legend of Zelda: Tears of the Kingdom",
+        "Desenvolvedor": "Nintendo Entertainment Planning & Development",
+        "DataLancamento" : "12 de maio de 2023" ,
         "Descricao": "The Legend of Zelda: Tears of the Kingdom é um jogo eletrônico de ação-aventura desenvolvido e publicado pela Nintendo. Foi lançado em 12 de maio de 2023 para Nintendo-Switch. Ele faz parte da série The Legend of Zelda, e é a sequência de The Legend of Zelda: Breath of the Wild.",
         "Plataforma": ["Nintendo-Switch"],
         "Imagem": "\\img\\jogos\\8.jpg"
@@ -58,6 +74,8 @@
     {
         "Numero": 9,
         "Nome": "Lies of P",
+        "Desenvolvedor": "Round8 Studio, Neowiz Games",
+        "DataLancamento" : "18 de setembro de 2023" ,
         "Descricao": "Lies of P é um vídeo game RPG de ação desenvolvido pela Round8 Studio e publicado pela Neowiz Games, inspirado no romance de Carlo Collodi As Aventuras de Pinóquio. Lançado para macOS, Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One e Xbox Series X/S em 2023.",
         "Plataforma": ["PlayStation", "Xbox", "PC"],
         "Imagem": "\\img\\jogos\\9.jpg"
@@ -65,6 +83,8 @@
     {
         "Numero": 10,
         "Nome": "Street Fighter 6",
+        "Desenvolvedor": "Capcom",
+        "DataLancamento" : "2 de junho de 2023" ,
         "Descricao": "Street Fighter 6 é um jogo eletrônico de luta desenvolvido e publicado pela Capcom. É a sétima entrada principal da franquia Street Fighter, e foi lançado para PlayStation 4, PlayStation 5, Windows e Xbox Series X/S em 2 de junho de 2023, ao passo que uma versão para arcade será publicada pela Taito mais tarde no mesmo ano.",
         "Plataforma": ["PlayStation", "Xbox", "PC"],
         "Imagem": "\\img\\jogos\\10.jpg"
@@ -72,6 +92,8 @@
     {
         "Numero": 11,
         "Nome": "Super Mario Bros. Wonder",
+        "Desenvolvedor": "Nintendo, Nintendo Entertainment Planning & Development",
+        "DataLancamento" : "20 de outubro de 2023" ,
         "Descricao": "Super Mario Bros. Wonder é um jogo eletrônico de plataforma desenvolvido e publicado pela Nintendo. Foi lançado para o Nintendo-Switch em 20 de outubro de 2023, sendo o primeiro jogo de rolagem lateral da série Super Mario desde New Super Mario Bros. U.",
         "Plataforma": ["Nintendo-Switch"],
         "Imagem": "\\img\\jogos\\11.jpg"
@@ -79,6 +101,8 @@
     {
         "Numero": 12,
         "Nome": "The Last of Us Part I",
+        "Desenvolvedor": "Naughty Dog, Iron Galaxy Studios",
+        "DataLancamento" : "2 de setembro de 2022" ,
         "Descricao": "The Last of Us Part I é um jogo eletrônico de ação-aventura de 2022 desenvolvido pela Naughty Dog e publicado pela Sony Interactive Entertainment. É um remake de The Last of Us, apresentando jogabilidade e controles revisados, incluindo combate e exploração aprimorados e opções de acessibilidade expandidas.",
         "Plataforma": ["PlayStation", "PC"],
         "Imagem": "\\img\\jogos\\12.jpg"

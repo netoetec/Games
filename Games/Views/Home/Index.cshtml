@@ -16,7 +16,7 @@
         <div class="col mx-auto">
             <h1>Games</h1>
             <div class="group">
-                <button id="btn-all" class="btn btn-md my-2 text-dark bg-white btn-filter"
+                <button id="btn-all" class="btn btn-md my-2 text-white bg-dark btn-filter"
                     onclick="filter('all')">
                     Ver Todos
                 </button>
@@ -47,7 +47,7 @@
                         <div class="card-body">
                             <p class="card-text mb-0">Nº @jogo.Numero.ToString("000")</p>
                             <h3 class="card-title">@jogo.Nome</h3>
-                            <div class="btn-group">
+                            <div class="btn-group flex-wrap">
                                 @foreach (var plataforma in jogo.Plataforma)
                                 {
                                     <a href="#" class="btn my-2 text-white" 
